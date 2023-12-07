@@ -21,7 +21,7 @@ rosbag play your-bag.bag
  -A video of the demonstration of the method can be found on [Bilibili](https://www.bilibili.com/video/BV1f94y1E72i/#reply197352110848)
  ## Notes
 
-  - **Initialization:** During the initialization stage, had better keep the robot still. Or if you play bags, fistly play the bag for about 0.5s, and then pause the bag until the initialization succeed. The initialization method requres you to give it initial guesses by hand on the the Rviz.
+  - **Initialization:** During the initialization stage, had better keep the robot still. Or if you play bags, fistly play the bag for about 0.5s, and then pause the bag until the initialization succeed.
   - **Dependency:** Please refer to [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM#dependency) , [SC-LIO-SAM](https://github.com/gisbi-kim/SC-LIO-SAM) and [LIO-SAM_based_relocalization](https://github.com/Gaochao-hit/LIO-SAM_based_relocalization)
 
 ******************************************************************************************************************************************************************
