@@ -1,0 +1,2 @@
+# SC-LIO-SAM_relocalization
+在LIO-SAM_based_relocalization中添加利用scancontext检测确定机器人开机后在地图中的位置，可以代替手动选取初始点位。该方法需要搭配SC-LIO-SAM建图使用。
